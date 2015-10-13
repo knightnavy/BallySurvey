@@ -15,17 +15,15 @@
 				</dict>
 			</array>
 			<key>metadata</key>
-			<dict>
+				<dict>
 				<key>bundle-identifier</key>
-				<string>com.BallyTech.HRARMS</string>
+				<string>com.ballytech.BallyFieldService</string>
 				<key>bundle-version</key>
-				<string>0.0.1</string>
+				<string>4.0.02</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>BallyTech</string>
 				<key>title</key>
-				<string>rayScan</string>
+				<string>IRIS4_0_02</string>
 			</dict>
 		</dict>
 	</array>

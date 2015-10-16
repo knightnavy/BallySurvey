@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.BallyTech.hello</string>
 				<key>bundle-version</key>
-				<string>rayScanApp</string>
+				<string>v1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>

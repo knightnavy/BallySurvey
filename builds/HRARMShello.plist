@@ -17,7 +17,7 @@
 			<key>metadata</key>
 				<dict>
 				<key>bundle-identifier</key>
-				<string>com.BallyTech.hello</string>
+				<string>com.BallyTech.*</string>
 				<key>bundle-version</key>
 				<string>RayScanApp</string>
 				<key>kind</key>

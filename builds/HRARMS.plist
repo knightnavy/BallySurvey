@@ -17,7 +17,7 @@
 			<key>metadata</key>
 				<dict>
 				<key>bundle-identifier</key>
-				<string>com.ballytech.BallyFieldService</string>
+				<string>com.BallyTech.BVMS</string>
 				<key>bundle-version</key>
 				<string>BVMS</string>
 				<key>kind</key>

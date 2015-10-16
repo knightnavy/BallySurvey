@@ -17,13 +17,13 @@
 			<key>metadata</key>
 				<dict>
 				<key>bundle-identifier</key>
-				<string>com.BallyTech.*</string>
+				<string>com.BallyTech.hello</string>
 				<key>bundle-version</key>
-				<string>RayScanApp</string>
+				<string>rayScanApp</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>RayScanApp</string>
+				<string>rayScanApp</string>
 			</dict>
 		</dict>
 	</array>

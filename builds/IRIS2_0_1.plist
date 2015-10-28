@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ballytech.BallyFieldService</string>
+				<string>com.BallyTech.hello</string>
 				<key>bundle-version</key>
 				<string>2.0.1</string>
 				<key>kind</key>
@@ -25,7 +25,7 @@
 				<key>subtitle</key>
 				<string>BallyTech</string>
 				<key>title</key>
-				<string>IRIS</string>
+				<string>rayScan</string>
 			</dict>
 		</dict>
 	</array>
